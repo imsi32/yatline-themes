@@ -8,6 +8,7 @@ Awesome list of repositories for Yatline themes.
 - [Gruvbox](https://github.com/imsi32/yatline-gruvbox.yazi)
 - [Gruvbox Material](https://github.com/imsi32/yatline-gruvbox-material.yazi)
 - [Tokyo Night](https://github.com/wekauwau/yatline-tokyo-night.yazi)
+- [Dracula](https://github.com/wakaka6/yatline-dracula.yazi)
 
 ## Contributing
 
